@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aclonica</item>
+        <item>@font/anton</item>
+        <item>@font/atomic_age</item>
+        <item>@font/bad_script</item>
+        <item>@font/bangers</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/coiny</item>
+        <item>@font/galindo</item>
+        <item>@font/waiting_for_the_sunrise</item>
+    </array>
+</resources>
